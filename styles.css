@@ -1,0 +1,631 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+.frame-child {
+  position: relative;
+  width: 62.74px;
+  height: 70px;
+}
+.jhomes {
+  position: relative;
+  font-weight: 500;
+}
+.group-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.home {
+  position: relative;
+}
+.sign-up {
+  position: relative;
+  color: #ffa800;
+}
+.home-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 20px;
+  font-size: 18px;
+  font-family: "Proxima Nova";
+}
+.frame-parent {
+  position: absolute;
+  top: 0px;
+  left: 120px;
+  width: 1200px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 24px 0px;
+  box-sizing: border-box;
+}
+.facebook-icon {
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+.bg {
+  position: absolute;
+  height: 87.5%;
+  width: 87.5%;
+  top: 6.25%;
+  right: 6.25%;
+  bottom: 6.25%;
+  left: 6.25%;
+  border-radius: 56px;
+  background-color: #1275b1;
+}
+.linked-in-icon {
+  position: absolute;
+  height: 43.75%;
+  width: 46.88%;
+  top: 25%;
+  right: 25%;
+  bottom: 31.25%;
+  left: 28.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.bg1 {
+  position: absolute;
+  height: 87.5%;
+  width: 87.5%;
+  top: 6.25%;
+  right: 6.25%;
+  bottom: 6.25%;
+  left: 6.25%;
+  border-radius: 6px;
+  background: radial-gradient(
+    50% 50% at 50% 50%,
+    #b13589,
+    #c62f94 79.31%,
+    #8a3ac8
+  );
+}
+.bg2 {
+  position: absolute;
+  height: 87.5%;
+  width: 87.5%;
+  top: 6.25%;
+  right: 6.25%;
+  bottom: 6.25%;
+  left: 6.25%;
+  border-radius: 6px;
+  background: radial-gradient(
+    50% 50% at 50% 50%,
+    #e0e8b7,
+    #fb8a2e 44.47%,
+    #e2425c 71.47%,
+    rgba(226, 66, 92, 0)
+  );
+}
+.bg3 {
+  position: absolute;
+  height: 87.5%;
+  width: 87.5%;
+  top: 6.25%;
+  right: 6.25%;
+  bottom: 6.25%;
+  left: 6.25%;
+  border-radius: 6px;
+  background: radial-gradient(
+    50% 50% at 50% 50%,
+    #406adc 15.67%,
+    #6a45be 46.78%,
+    rgba(106, 69, 190, 0)
+  );
+}
+.instagram-icon {
+  position: absolute;
+  height: 62.5%;
+  width: 62.5%;
+  top: 18.75%;
+  right: 18.75%;
+  bottom: 18.75%;
+  left: 18.75%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.facebook-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.copyright-joygirl-powered-by-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 24px;
+  font-size: 24px;
+}
+.frame-group {
+  position: absolute;
+  top: 2207px;
+  left: calc(50% - 720px);
+  background-color: #1e1e1e;
+  width: 1440px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 32px 120px;
+  box-sizing: border-box;
+  color: #fff;
+}
+.decor {
+  color: #ffa800;
+}
+.elevate-your-home-container {
+  align-self: stretch;
+  position: relative;
+  font-weight: 600;
+}
+.where-your-imagination {
+  margin: 0;
+}
+.where-your-imagination-container {
+  align-self: stretch;
+  position: relative;
+  font-size: 24px;
+  line-height: 150%;
+  font-family: "Proxima Nova";
+}
+.heo-text {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.button-wrapper {
+  border-radius: 8px;
+  background-color: #ffbf23;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 14.5px 24px;
+}
+.hicon-bold-lock-1-wrapper {
+  border-radius: 32px;
+  background-color: rgba(56, 71, 109, 0.09);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 13px 14px;
+}
+.fast-secure {
+  position: relative;
+  line-height: 120%;
+  display: inline-block;
+  width: 115px;
+  flex-shrink: 0;
+}
+.frame-div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.hicon-bold-dollar-square {
+  position: relative;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  font-size: 16px;
+}
+.instance-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 56px;
+  font-size: 18px;
+  font-family: "Proxima Nova";
+}
+.heo-text-parent {
+  width: 581px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 40px;
+}
+.house-1-icon {
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  height: 392px;
+  object-fit: cover;
+}
+.hero-t {
+  position: absolute;
+  top: 201px;
+  left: calc(50% - 599px);
+  width: 1199px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 40px;
+  font-size: 64px;
+}
+.image-icon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 516px;
+  height: 437.89px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.image {
+  position: absolute;
+  top: 0px;
+  left: 96px;
+  width: 516px;
+  height: 437.89px;
+}
+.love-l-1 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.colour-picker-child {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 8px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.colour-picker {
+  position: absolute;
+  top: 385px;
+  left: 456px;
+  border-radius: 20px;
+  background-color: #fff;
+  box-shadow: 0px 8px 10px rgba(0, 0, 0, 0.2);
+  width: 132px;
+  height: 146px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 16px;
+  box-sizing: border-box;
+  gap: 4px;
+}
+.image-1-icon {
+  position: relative;
+  border-radius: 256px;
+  width: 72px;
+  height: 72px;
+  object-fit: cover;
+}
+.founder {
+  position: relative;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  line-height: 150%;
+  font-weight: 500;
+  color: #3d3d3d;
+}
+.jhomes-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.hijoygirlgmailcom {
+  font-size: 12px;
+  color: #525252;
+}
+.email-hijoygirlgmailcom {
+  position: relative;
+  letter-spacing: 0.5px;
+  line-height: 150%;
+  font-family: "Proxima Nova";
+  font-size: 14px;
+  color: #141414;
+}
+.clicks-fig {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 4px;
+}
+.icons {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.clicks-fig-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.profile1 {
+  position: absolute;
+  top: 319px;
+  left: 0px;
+  border-radius: 20px;
+  background-color: #fff;
+  box-shadow: 0px 8px 10px rgba(0, 0, 0, 0.2);
+  height: 160.59px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 16px;
+  box-sizing: border-box;
+  gap: 16px;
+}
+.profile {
+  position: relative;
+  width: 612px;
+  height: 531px;
+}
+.about-us {
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.5px;
+  line-height: 150%;
+  font-weight: 500;
+}
+.daisy-about-us {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.were-dedicated-to {
+  flex: 1;
+  position: relative;
+  line-height: 150%;
+}
+.daisy-about-us1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 18px;
+  color: #292929;
+  font-family: "Proxima Nova";
+}
+.collaborate-with-our {
+  margin-bottom: 6px;
+}
+.collaborate-with-our-experts-t {
+  margin: 0;
+  padding-left: 24px;
+}
+.collaborate-with-our-container {
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 150%;
+  font-family: inherit;
+  color: #3d3d3d;
+}
+.about-link {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 24px;
+}
+.button-container {
+  border-radius: 8px;
+  border: 1px solid #464e5f;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 14.5px 24px;
+  font-size: 18px;
+  color: #464e5f;
+  font-family: "Proxima Nova";
+}
+.track-link {
+  width: 536px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  font-size: 32px;
+  color: #141414;
+}
+.generate-link {
+  position: absolute;
+  top: 1572px;
+  left: calc(50% - 594px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 40px;
+  font-size: 24px;
+  margin-bottom: 104px;
+}
+.daisy-about-us2 {
+  width: 501px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.discover-the-latest {
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+  width: 516px;
+  flex-shrink: 0;
+}
+.daisy-about-us3 {
+  width: 516px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 18px;
+  color: #3d3d3d;
+  font-family: "Proxima Nova";
+}
+.about-link1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 32px;
+}
+.track-link1 {
+  width: 552px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.image-icon1 {
+  position: absolute;
+  top: 0px;
+  left: 108px;
+  width: 516px;
+  height: 439px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.eye-icon {
+  position: relative;
+  width: 40px;
+  height: 40px;
+}
+.div {
+  position: relative;
+  letter-spacing: 0.5px;
+  line-height: 150%;
+  font-weight: 500;
+}
+.views1 {
+  position: relative;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  line-height: 150%;
+  font-family: "Proxima Nova";
+  color: #141414;
+}
+.clicks-fig1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.likes-card {
+  position: absolute;
+  top: 38px;
+  left: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.views {
+  position: absolute;
+  top: 205px;
+  left: 0px;
+  border-radius: 16px;
+  background-color: #fff;
+  box-shadow: 0px 8px 10px rgba(0, 0, 0, 0.2);
+  width: 192px;
+  height: 200px;
+  overflow: hidden;
+}
+.clicks-link {
+  position: absolute;
+  top: 114px;
+  left: 3px;
+}
+.clicks {
+  position: absolute;
+  top: 380px;
+  left: 398px;
+  border-radius: 16px;
+  background-color: #fff;
+  box-shadow: 0px 8px 10px rgba(0, 0, 0, 0.2);
+  width: 192px;
+  height: 200px;
+  overflow: hidden;
+}
+.image-and-links {
+  position: relative;
+  width: 624px;
+  height: 580px;
+  font-size: 24px;
+  color: #000;
+}
+.next-link {
+  position: absolute;
+  top: 760px;
+  left: calc(50% - 720px);
+  background-color: #f5faff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 64px 120px;
+  gap: 24px;
+  color: #141414;
+}
+.design {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 2357px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 32px;
+  color: #000;
+  font-family: "Clash Grotesk";
+}
